@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import backgroundImg from '../../assets/background.png'
+import backgroundImg from '../../assets/background.jpg'
 
 export const Container = styled.div`
     width: clamp(38rem, 45vw, 63.7rem);
